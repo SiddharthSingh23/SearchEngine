@@ -9,7 +9,7 @@ export const Content = () => {
 		<div className='Content'>
 			<Routes>
 				<Route exact path='/'
-					element={<Navigate replace to="/home" />}
+					element={<Navigate replace to="/search" />}
 				/>
 
 				<Route path='/search'

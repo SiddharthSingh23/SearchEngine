@@ -1,0 +1,17 @@
+.Results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    gap: 2rem;
+    margin: 5rem 0;
+}
+
+.result {
+    width: 80%;
+    margin: 0 auto;
+    background-color:rgba(164,187,208,0.06);
+    border-radius:5px;
+    padding:20px;
+    height:150px;
+}
